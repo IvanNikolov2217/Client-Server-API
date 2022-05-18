@@ -1,0 +1,38 @@
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\bin\Debug\net5.0\Client.exe
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\bin\Debug\net5.0\Client.deps.json
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\bin\Debug\net5.0\Client.runtimeconfig.json
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\bin\Debug\net5.0\Client.runtimeconfig.dev.json
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\bin\Debug\net5.0\Client.dll
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\bin\Debug\net5.0\Client.pdb
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\bin\Debug\net5.0\Business Layer.dll
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\bin\Debug\net5.0\Business Layer.pdb
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\Client.csproj.AssemblyReference.cache
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\Client.AssemblyInfoInputs.cache
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\Client.AssemblyInfo.cs
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\Client.csproj.CopyComplete
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\Client.dll
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\refint\Client.dll
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\Client.pdb
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\Client.genruntimeconfig.cache
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\ref\Client.dll
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\bin\Debug\net5.0\Client.exe
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\bin\Debug\net5.0\Client.deps.json
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\bin\Debug\net5.0\Client.runtimeconfig.json
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\bin\Debug\net5.0\Client.runtimeconfig.dev.json
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\bin\Debug\net5.0\Client.dll
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\bin\Debug\net5.0\Client.pdb
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\bin\Debug\net5.0\Business Layer.dll
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\bin\Debug\net5.0\Business Layer.pdb
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\Client.csproj.AssemblyReference.cache
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\Client.AssemblyInfoInputs.cache
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\Client.AssemblyInfo.cs
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\Client.csproj.CoreCompileInputs.cache
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\Client.csproj.CopyComplete
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\Client.dll
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\refint\Client.dll
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\Client.pdb
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\Client.genruntimeconfig.cache
+C:\Users\ivan_\OneDrive\Работен плот\Програмиране 2021-2022\Разработка на софтуер\04.Client Server API\Ivan_Nikolov_11e_10_Client_Server_API\Client\obj\Debug\net5.0\ref\Client.dll
